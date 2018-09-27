@@ -2,64 +2,70 @@
 
     {
       "id": 0,
-      "name": "Cat2",
-      "image": "assets/images/cat2.jpg",
-      "isClicked": false
-    },
-    {
-      "id": 1,
-      "name": "Cat4",
-      "image": "assets/images/cat4.jpg",
-      "isClicked": false
-    },
-
-    {
-      "id": 2,
-      "name": "Cat5",
-      "image": "assets/images/cat5.jpg",
-      "isClicked": false
-    },
-    {
-      "id": 3,
-      "name": "Cat6",
-      "image": "assets/images/cat6.jpg",
-      "isClicked": false
-    },
-    {
-      "id": 4,
-      "name": "Cat8",
-      "image": "assets/images/cat8.jpg",
-      "isClicked": false
-    },
-
-    {
-      "id": 5,
-      "name": "Cat10",
-      "image": "assets/images/cat10.jpg",
-      "isClicked": false
-    },
-    {
-      "id": 6,
-      "name": "Cat12",
-      "image": "assets/images/cat12.jpg",
-      "isClicked": false
-    },
-    {
-      "id": 7,
-      "name": "Cat13",
-      "image": "assets/images/cat13.jpg",
-      "isClicked": false
-    },
-    {
-      "id": 8,
       "name": "Cat1",
       "image": "assets/images/cat1.jpg",
       "isClicked": false
     },
     {
-      "id": 7,
+      "id": 1,
+      "name": "Cat2",
+      "image": "assets/images/cat2.jpg",
+      "isClicked": false
+    },
+
+    {
+      "id": 2,
       "name": "Cat3",
       "image": "assets/images/cat3.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Cat4",
+      "image": "assets/images/cat4.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Cat5",
+      "image": "assets/images/cat5.jpg",
+      "isClicked": false
+    },
+
+    {
+      "id": 5,
+      "name": "Cat6",
+      "image": "assets/images/cat6.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Cat7",
+      "image": "assets/images/cat7.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Cat8",
+      "image": "assets/images/cat8.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Cat9",
+      "image": "assets/images/cat9.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Cat10",
+      "image": "assets/images/cat10.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "Cat11",
+      "image": "assets/images/cat11.jpg",
       "isClicked": false
     }
 

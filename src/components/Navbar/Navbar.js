@@ -11,6 +11,8 @@ const Navbar = (props) => (
       <li>Score: {props.score} | Top Score: {props.topscore}</li></ul>
   </nav>
 
+  
+
 );
 
 export default Navbar;
